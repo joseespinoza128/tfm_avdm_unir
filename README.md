@@ -22,7 +22,7 @@ Este proyecto tiene como objetivo desarrollar un prototipo funcional para predec
 ## Contenido del proyecto
 
 - `proyecto.ipynb`: Análisis exploratorio de datos, ingeniería de características y entrenamiento de modelos.
-- `metricas_modelos.gph`: Archivo con visualizaciones graficas con las métricas de todos los modelos, realizado con Scimago Graphica, para ver el archivo se debe descargar el software desde la página we https://www.graphica.app/ .
+- `metricas_modelos.gph`: Archivo con visualizaciones gráficas con las métricas de todos los modelos, realizado con Scimago Graphica, para ver el archivo se debe descargar el software desde la página we https://www.graphica.app/ .
 - `modelo_random_forest_pipeline.joblib`: Modelo de Random Forest entrenado y serializado con pipeline.
 - `modelo_xgboost_pipeline.joblib`: Modelo de XGBoost entrenado y serializado con pipeline.
 - `main.py`: Código de la API en FastAPI que expone un endpoint `/predecir/` para obtener predicciones.
